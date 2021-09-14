@@ -1,0 +1,3 @@
+Favorite color = white
+Favorite season = winter
+Favorite holiday = christmas
