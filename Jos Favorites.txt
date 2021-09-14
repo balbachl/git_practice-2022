@@ -1,0 +1,3 @@
+Favorite color = red
+Favorite holiday = valentines day
+Favorite season = Spring
