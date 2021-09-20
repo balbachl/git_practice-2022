@@ -1,1 +1,3 @@
-My Name is Dylan and I like writing stories
+My Name is Dylan and I like writing stories.
+
+This is how I add more text to a file!
