@@ -1,5 +1,0 @@
-Hello, This is some  text in a text file. 
-
-By Robin Phinizy
-
-A second entry of text. 
